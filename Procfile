@@ -1,1 +1,1 @@
-worker: python3 -m nudenet
+worker: python3 -m setup.py
