@@ -1,1 +1,1 @@
-worker: python3 rules_bot.py
+worker: python3 setup.py
